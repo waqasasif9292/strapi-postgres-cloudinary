@@ -112,3 +112,10 @@ license.txt
 exports
 .cache
 build
+
+/.tmp
+build
+.strapi-updater.json
+.env
+.strapi
+types
