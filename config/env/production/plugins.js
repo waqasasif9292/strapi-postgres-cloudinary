@@ -1,5 +1,4 @@
 module.exports = ({ env }) => ({
-  playgroundAlways: true,
   graphql: {
     enabled: true,
     config: {
