@@ -12,9 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "test": {
-      "type": "richtext"
-    },
     "Mohsin": {
       "type": "string"
     }
